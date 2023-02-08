@@ -40,8 +40,9 @@ I am a Tech Lead / Senior Full Stack Developer from Costa Rica.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuiscbCRC&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuiscbCRC&theme=dark&background=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiscbCRC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Luis' GitHub stats](https://github-readme-stats-luiscbcrc.vercel.app/api?username=LuiscbCRC&count_private=true&show_icons=true&theme=dark&background=000000)
 
 ---
